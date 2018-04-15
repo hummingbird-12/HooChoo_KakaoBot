@@ -1,24 +1,8 @@
+HOOCHOO_BOT
+===========
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+I like recommending dessert!
 
+Add me from kakao talk plus friend!
 
-Welcome to your Rails project on Cloud9 IDE!
-
-To get started, just do the following:
-
-1. Run the project with the "Run Project" button in the menu bar on top of the IDE.
-2. Preview your new app by clicking on the URL that appears in the Run panel below (https://HOSTNAME/).
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for support, or to learn more about using Cloud9 IDE. 
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+![alt text](https://postfiles.pstatic.net/MjAxNzEwMDlfOTIg/MDAxNTA3NTM1NDkwNTY5.CXqU6chSOw22oFUWili53d9WA1D6GHaM1Uw5XD0FOl8g.kE9GgLTtWwulXtvmYTg7Xvy9y1O4IzjBFoKzimusAC0g.JPEG.tooth_/KakaoTalk_2017-10-09-11-49-47_Photo_56.jpeg?type=w773)
